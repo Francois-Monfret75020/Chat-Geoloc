@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatgeolocv1-staging-92700-authRole",
+      "UnauthRoleArn": "arn:aws:iam::035186360136:role/amplify-chatgeolocv1-staging-92700-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::035186360136:role/amplify-chatgeolocv1-staging-92700-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-chatgeolocv1-staging-92700-deployment",
+      "UnauthRoleName": "amplify-chatgeolocv1-staging-92700-unauthRole",
+      "StackName": "amplify-chatgeolocv1-staging-92700",
+      "StackId": "arn:aws:cloudformation:eu-west-3:035186360136:stack/amplify-chatgeolocv1-staging-92700/54b6bd30-6818-11ee-886c-06f8d6d13ad0",
+      "AmplifyAppId": "dsrtg2b1nuaqp"
+    },
+    "categories": {
+      "auth": {
+        "ChatGeolocV1": {}
+      }
+    }
+  }
+}
